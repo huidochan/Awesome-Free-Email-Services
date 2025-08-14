@@ -5,6 +5,9 @@
 <br>
 <br>
 <p align="center">
+	Never pay for your emails
+	<br>
+	<br>
 	<a href="https://github.com/huidochan/Awesome-Free-Email-Services/issues">Add services</a>
 </p>
 <br>
@@ -13,7 +16,7 @@
 ## Contents
 
 - [Free Mail Relays](#free-mail-relays)
-- [Free Mail Inboxes](#free-mail-inboxes)
+- [Free Mailboxes](#free-mailboxes)
 
 ## Free Mail Relays
 
@@ -27,6 +30,10 @@ Mail relays accept emails over API and SMTP and delivers them to the recipients.
 - [SMTP2Go](https://www.smtp2go.com/) - Easily send and track all of your emails, and forget headaches with email delivery. Limited to 1,000 mails/month and 200 mails/day. Paid plan starts at $10/month.
 - [Maileroo](https://maileroo.com/) - Send transactional and marketing emails with ease using a platform designed for high deliverability. Limited to 3,000 mails/month and 30 mails/hour. Paid plan starts at $10/month.
 
-## Free Mail Inboxes
+## Free Mailboxes
 
+Most mailboxes will ask for SMS verification upon registration. To stay anonymous we recommend [Grizzly SMS](https://grizzlysms.com/). The following providers have clear limits and simple IMAP and SMTP setup without OAuth.
 
+- [Gmail](https://gmail.com/) - Google's mail service since 2004. 15 GB storage shared with other services. 25 MB attachments. Limited to 500 mails/day. Free to send from your own domain.
+- [ProtonMail](https://protonmail.com) - Encrypted mail service from Switzerland. 1 GB storage and limited to 150 mails/day.
+- [GMX](https://gmx.net) & [Mail.com](https://mail.com) - German mail provider. 65 GB storage. 50 MB attachments and 500 mails/day.
