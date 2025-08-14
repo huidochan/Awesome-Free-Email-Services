@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>Awsome Free Email Services</h1>
+  <h1>Awesome Free Email Services</h1>
 	<img width="500" height="350" src="email.svg" alt="Free Email Services">
 </div>
 <br>
 <br>
 <p align="center">
-	<a href="https://github.com/huidochan/Awsome-Free-Email-Services/issues">Add services</a>
+	<a href="https://github.com/huidochan/Awesome-Free-Email-Services/issues">Add services</a>
 </p>
 <br>
 <br>
